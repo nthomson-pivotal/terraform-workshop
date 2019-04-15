@@ -1,4 +1,4 @@
-# Terraform Exercise 2 - First Resource
+# Terraform Exercise 3 - Provisioners
 
 In this exercise we will try some Terraform provisioners
 
